@@ -1,5 +1,8 @@
-### Hi there 👋
+# Lucas Herrera 
 
+## I'm currently working on an educational proyect
+> I'm learning Python since
+> I wanna be a backend developer
 <!--
 **mlk3009/mlk3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
