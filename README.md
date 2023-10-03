@@ -1,6 +1,6 @@
 # Lucas Herrera 
 
-## I'm currently working on an educational proyect
+I'm currently working on an educational proyect
 > I'm learning Python since
 > I wanna be a backend developer
 <!--
