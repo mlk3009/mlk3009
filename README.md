@@ -12,3 +12,8 @@ const mlk3009 = {
 }
 ```
 ## Social media:
+- [Twitter](https://twitter.com/alexx_mlk)
+
+- [Instagram](https://instagram.com/alexx.mlk)
+## Contact
+- [Gmail](mailto:lucasherrera3009@gmail.com)
