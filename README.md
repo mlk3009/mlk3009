@@ -1,6 +1,7 @@
 # Lucas Herrera 
+I'm a 19-year-old studient of web developing on ITS
 
-I'm currently working on an educational proyect
+## Abilities
 > I'm learning Python since
 > I wanna be a backend developer
 <!--
