@@ -1,6 +1,6 @@
 # Lucas Herrera
 
-Hello, I'm Lucas Herrera, a 19-year-old student at [Instituto Tecnológico Superior "Arias Balparda"](https://its.utu.edu.uy/). I'm passionate about backend development and have experience with PHP, MYSQL, Javascript, HTML, and CSS. I'm currently learning Python and Laravel.
+Hello, I'm Lucas Herrera, a 19-year-old student at [Instituto Tecnológico Superior "Arias Balparda"](https://its.utu.edu.uy/). I'm passionate about backend development and have experience with PHP, MYSQL, Javascript, HTML, and CSS. I'm currently learning Laravel.
 
 ## About Me
 
@@ -9,7 +9,7 @@ const mlk3009 = {
   Pronouns: "he"/"him",
   Focus: "Backend",
   Code: [PHP, MYSQL, Javascript, HTML, CSS],
-  In progress: [Python, Laravel],
+  WaitingList: [Python, Laravel],
   Hobbies: [DJing, Skating]
 }
 ```
