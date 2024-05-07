@@ -20,7 +20,7 @@ Connect with me on social media:
 
 - [Twitter](https://twitter.com/alexx_mlk)
 
-- [Instagram](https://instagram.com/alexx.mlk)
+- [Instagram](https://instagram.com/luk4s.mlk)
 ## Contact
 
 Feel free to reach out to me via email at lucasherrera3009@gmail.com
