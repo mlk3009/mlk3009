@@ -8,6 +8,7 @@ Hello, I'm Lucas Herrera, a 19-year-old student at [Instituto Tecnológico Super
 const mlk3009 = {
   Pronouns: "he"/"him",
   Focus: "Backend",
+  Systems: [Linux (Ubuntu Server), Windows (Server Conf.), MySQL Cluster (basic)],
   Code: [PHP (Laravel), MYSQL, Javascript (Angular), HTML, CSS (Tailwind)],
   WaitingList: [Python, PosgreSQL],
   Hobbies: [DJing]
